@@ -1167,7 +1167,7 @@ facebook.com, 2277615732660543, DIRECT, c3e20eee3f780d68
 #fb end
 
 #Bigo start
-bigo.sg,h9dij4opd1,DIRECT
+bigo.sg,iwxwsob0lp,DIRECT
 start.io, 115550145, RESELLER
 onetag.com, 970b4089dd78c5f, RESELLER
 monetrix.ai, 10688, RESELLER
